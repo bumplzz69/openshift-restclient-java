@@ -8,7 +8,7 @@
         <groupId>org.jboss</groupId>
         <artifactId>jboss-parent</artifactId>
         <version>6-beta-2</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <!-- Model Information -->
@@ -224,7 +224,7 @@
         <dependency>
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
-            <version>1.6</version>
+            <version>1.13</version>
         </dependency>
         <dependency>
             <groupId>commons-lang</groupId>
