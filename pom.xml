@@ -8,7 +8,7 @@
         <groupId>org.jboss</groupId>
         <artifactId>jboss-parent</artifactId>
         <version>6-beta-2</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <!-- Model Information -->
@@ -166,7 +166,7 @@
         <dependency>
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
-            <version>1.14</version>
+            <version>1.26</version>
         </dependency>
         <dependency>
             <groupId>org.jboss</groupId>
