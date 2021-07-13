@@ -8,7 +8,7 @@
         <groupId>org.jboss</groupId>
         <artifactId>jboss-parent</artifactId>
         <version>6-beta-2</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <!-- Model Information -->
@@ -181,7 +181,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
-            <version>1.18</version>
+            <version>1.21</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
