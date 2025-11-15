@@ -8,7 +8,7 @@
         <groupId>org.jboss</groupId>
         <artifactId>jboss-parent</artifactId>
         <version>6-beta-2</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <!-- Model Information -->
@@ -161,7 +161,7 @@
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
             <artifactId>okhttp</artifactId>
-            <version>3.11.0</version>
+            <version>4.9.2</version>
         </dependency>
         <dependency>
             <groupId>org.yaml</groupId>
